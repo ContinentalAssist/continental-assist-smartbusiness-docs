@@ -10,14 +10,9 @@ El presente manual tiene por objetivo dar a conocer y orientar a los usuarios
 sobre el uso del sistemas Smart Business de Continental Assist y así poder realizar 
 el correcto uso del sistema.
 
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Inicio:
 
    instructions
-
-Indice
-==================
-
-* :ref:`genindex`
-* :ref:`search`

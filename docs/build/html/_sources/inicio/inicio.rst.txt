@@ -1,0 +1,28 @@
+
+======================
+**Secciones**
+======================
+
+| Al acceder al Sistema **Smart Business** accedera a la página de inicio, en la cual podrán ver un menú desplegable y la sección de "Noticias".
+
+.. image:: /images/smart_business/inicio/inicio1.png
+
+.. rubric:: Imagen 5.1 incio.
+
+| Sección de "Ventas generadas por día".
+
+.. image:: /images/smart_business/inicio/inicio2.png
+
+.. rubric:: Imagen 5.2 incio.
+
+| Sección de "Ventas (Top 5 paises)" y "Ventas (Top agentes)".
+
+.. image:: /images/smart_business/inicio/inicio3.png
+
+.. rubric:: Imagen 5.3 incio.
+
+| Sección de "Detalles de las Ventas (Top agentes)".
+
+.. image:: /images/smart_business/inicio/inicio4.png
+
+.. rubric:: Imagen 5.4 incio.
